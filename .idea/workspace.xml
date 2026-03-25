@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43d7d046-8ca9-42fd-a086-2d0c5891ef7e" name="Changes" comment="my_exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 01 My solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 01 My solutions.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,31 @@
       <option name="project" value="LOCAL" />
       <updated>1774001564777</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1774011836591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1774011836591</updated>
+    </task>
+    <task id="LOCAL-00005" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1774012149290</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1774012149290</updated>
+    </task>
+    <task id="LOCAL-00006" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1774461342712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1774461342712</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
