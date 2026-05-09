@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="43d7d046-8ca9-42fd-a086-2d0c5891ef7e" name="Changes" comment="my_exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +108,63 @@
       <option name="project" value="LOCAL" />
       <updated>1774461342712</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1774464824422</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1774464824422</updated>
+    </task>
+    <task id="LOCAL-00008" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1774465087226</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1774465087226</updated>
+    </task>
+    <task id="LOCAL-00009" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1774465835766</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1774465835766</updated>
+    </task>
+    <task id="LOCAL-00010" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1774501429560</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774501429560</updated>
+    </task>
+    <task id="LOCAL-00011" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1774501809897</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1774501809897</updated>
+    </task>
+    <task id="LOCAL-00012" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1775408574003</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1775408574003</updated>
+    </task>
+    <task id="LOCAL-00013" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1775409975093</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1775409975093</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
