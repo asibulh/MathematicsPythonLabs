@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="43d7d046-8ca9-42fd-a086-2d0c5891ef7e" name="Changes" comment="my_exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +163,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775409975093</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1778333282926</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778333282926</updated>
+    </task>
+    <task id="LOCAL-00015" summary="my_exercise">
+      <option name="closed" value="true" />
+      <created>1778333359523</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1778333359523</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,5 +196,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my_exercise" />
     <option name="LAST_COMMIT_MESSAGE" value="my_exercise" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/Lab 5 Animation bonus.ipynb</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
